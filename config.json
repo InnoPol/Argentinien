@@ -10,9 +10,9 @@
     "title": "Topic Cluster & Innovationsfelder Argentinien"
   },
   "legend": {
-    "edgeLabel": "",
+    "edgeLabel": "ASJC-Verbindung",
     "colorLabel": "Innovationsfeld",
-    "nodeLabel": "Topic Cluster"
+    "nodeLabel": "Komplementarität des Topic Clusters"
   },
   "features": {
     "search": true,
